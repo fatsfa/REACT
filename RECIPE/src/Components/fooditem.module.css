@@ -33,3 +33,9 @@ color: #393e46;
     margin: 20px;
     display: flex;
 }
+.buttonContainer{
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
